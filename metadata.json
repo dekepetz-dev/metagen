@@ -1,0 +1,6 @@
+{
+  "name": "Microstock Metadata Generator",
+  "description": "Generate high-quality microstock metadata (titles, descriptions, keywords) optimized for Shutterstock, Adobe Stock, iStock, Pond5, and other platforms using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
